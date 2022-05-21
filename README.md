@@ -1,1 +1,5 @@
-# dio-desafio-github-primeiro-repositorio-gft-start-woman-java
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Projeto.
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
